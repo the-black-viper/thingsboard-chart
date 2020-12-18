@@ -1,0 +1,30 @@
+.ChartContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1080px;
+}
+
+.chart-wrapper {
+    justify-content: center;
+    /* width: 720px; */
+}
+
+.MissingData {
+    display: grid;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.NoDataImage {
+    align-items: center;
+}
+
+.NoDataHeader {
+    justify-self: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

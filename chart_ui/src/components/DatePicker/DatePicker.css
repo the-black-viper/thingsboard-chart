@@ -1,0 +1,10 @@
+.dateHeader {
+    padding-left: 1rem;
+}
+
+.DateContainer {
+    display: flex;
+    justify-content: center;
+    padding-top: 0;
+    margin-bottom: 30px;
+}
